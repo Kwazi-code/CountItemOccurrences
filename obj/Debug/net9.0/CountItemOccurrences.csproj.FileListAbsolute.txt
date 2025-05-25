@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\CountItemOccurrences\bin\Debug\net9.0\CountItemOccurrences.exe
+C:\Users\User\Downloads\CountItemOccurrences\bin\Debug\net9.0\CountItemOccurrences.deps.json
+C:\Users\User\Downloads\CountItemOccurrences\bin\Debug\net9.0\CountItemOccurrences.runtimeconfig.json
+C:\Users\User\Downloads\CountItemOccurrences\bin\Debug\net9.0\CountItemOccurrences.dll
+C:\Users\User\Downloads\CountItemOccurrences\bin\Debug\net9.0\CountItemOccurrences.pdb
+C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\CountItemOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\CountItemOccurrences.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\CountItemOccurrences.AssemblyInfo.cs
+C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\CountItemOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\CountItemOccurrences.dll
+C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\refint\CountItemOccurrences.dll
+C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\CountItemOccurrences.pdb
+C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\CountItemOccurrences.genruntimeconfig.cache
+C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\ref\CountItemOccurrences.dll
