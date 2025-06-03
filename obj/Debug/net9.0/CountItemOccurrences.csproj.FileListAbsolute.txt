@@ -12,3 +12,4 @@ C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\refint\CountItemOc
 C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\CountItemOccurrences.pdb
 C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\CountItemOccurrences.genruntimeconfig.cache
 C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\ref\CountItemOccurrences.dll
+C:\Users\User\Downloads\CountItemOccurrences\obj\Debug\net9.0\CountItemOccurrences.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountItemOccurrences")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ee2bb9cf67e63918b7694cbe617975b9e78c0ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountItemOccurrences")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountItemOccurrences")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
